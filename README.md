@@ -1,6 +1,6 @@
 # m - Matrix
 
-[![Matrix](https://raw.githubusercontent.com/dkin-om/m/master/.img/m.png)](https://github.com/dkin-om/m)
+[![Matrix](https://raw.githubusercontent.com/dkin-om/m/master/img/.m.png)](https://github.com/dkin-om/m)
 
 [![Version](https://img.shields.io/pub/v/m)](https://pub.dev/packages/m)
 [![Build Status](https://travis-ci.com/dkin-om/m.svg?branch=master)](https://app.travis-ci.com/github/dkin-om/m)
