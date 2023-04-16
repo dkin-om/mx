@@ -1,17 +1,15 @@
 name: mx
 version: 0.1.0-nameclaim
 description: A Dart library
-repository: https://github.com/dkin-om/m.git
-issue_tracker: https://github.com/dkin-om/m/issues
-homepage: https://github.com/dkin-om/m#readme
+repository: https://github.com/dkin-om/mx.git
+issue_tracker: https://github.com/dkin-om/mx/issues
+homepage: https://github.com/dkin-om/mx#readme
 environment:
   sdk: '>=2.12.0 <3.0.0'
-dependencies:
-  invertible: ^2.0.0
 dev_dependencies:
   test: ^1.14.4
 screenshots:
-  - description: m package logo
+  - description: mx package logo
     path: img/logo.png
 funding:
   - https://github.com/sponsors/dkin-om
